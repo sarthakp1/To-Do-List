@@ -9,7 +9,7 @@ Features
 - Delete Tasks: Remove tasks from the list with a delete button.
 
 Future Enhancements
--Add a "due date" feature for tasks.
--Introduce categories or labels for better organization.
--Enable task prioritization.
--Add a search or filter option to find tasks quickly.
+- Add a "due date" feature for tasks.
+- Introduce categories or labels for better organization.
+- Enable task prioritization.
+- Add a search or filter option to find tasks quickly.
